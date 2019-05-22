@@ -1,0 +1,46 @@
+"","Salinity","Sample_Depth","Chlorophyll","Temperature","Water_Depth","Insolation"
+"Sargasso Sea_GS001c_Open Ocean",36.7,5,0.1,22.9,4200,5.83
+"North American East Coast_GS002_Coastal",29.2,1,1.4,18.2,106,6.14
+"North American East Coast_GS003_Coastal",29.9,1,1.4,11.7,119,6.04
+"North American East Coast_GS004_Coastal",28.3,2,0.4,17.3,142,5.48
+"North American East Coast_GS005_Embayment",30.2,1,6,15,64,5.48
+"North American East Coast_GS006_Estuary",NA,1,2.8,11.2,11,5.23
+"North American East Coast_GS007_Coastal",31.7,1,1.4,17.9,139,6.03
+"North American East Coast_GS008_Coastal",26.5,1,2.2,9.4,12,3.1
+"North American East Coast_GS009_Coastal",31,1,4,11,32,3.1
+"North American East Coast_GS011_Estuary",NA,1,4.8,11,8,3.36
+"North American East Coast_GS013_Coastal",NA,2.1,3,9.3,20,2.74
+"North American East Coast_GS014_Coastal",NA,1,1.7,18.6,31,3.18
+"Caribbean Sea_GS015_Coastal",36,1.7,0.2,25,47,6.86
+"Caribbean Sea_GS016_Coastal Sea",35.8,2,0.16,26.4,3333,6.93
+"Caribbean Sea_GS017_Open Ocean",35.8,2,0.13,27,4513,6.67
+"Caribbean Sea_GS018_Open Ocean",35.4,1.7,0.14,27.4,4470,6.11
+"Caribbean Sea_GS019_Coastal",35.4,1.7,0.23,27.7,3336,4.2
+"Eastern Tropical Pacific_GS021_Coastal",30.7,1.6,0.5,27.6,76,4.7
+"Eastern Tropical Pacific_GS022_Open Ocean",32.3,2,0.33,29.3,2431,4.66
+"Eastern Tropical Pacific_GS023_Open Ocean",32.6,2,0.07,28.7,1139,4.79
+"Galapagos Islands_GS026_Open Ocean",32.6,2,0.22,27.8,2386,5.7
+"Galapagos Islands_GS027_Coastal",34.9,2.2,0.4,25.5,2.3,6.78
+"Galapagos Islands_GS028_Coastal",NA,2,0.35,NA,156,6.78
+"Galapagos Islands_GS029_Coastal",34.5,2.1,0.4,26.2,12,5.5
+"Galapagos Islands_GS030_Warm Seep",NA,19,NA,26.9,19,5.84
+"Galapagos Islands_GS031_Coastal upwelling",NA,12,0.35,18.6,19.6,6.57
+"Galapagos Islands_GS034_Coastal",NA,2.1,0.36,27.5,35,5.87
+"Galapagos Islands_GS035_Coastal",34.5,1.7,0.28,21.8,71,5.65
+"Galapagos Islands_GS036_Coastal",34.6,2.1,0.65,25.8,67,6.47
+"Polynesia Archipelagos_GS048a_Coral Reef",35.1,1.4,0.095,28.9,34,5.43
+"Polynesia Archipelagos_GS049_Coastal",32.6,1.4,0.095,28.8,900,5.43
+"Polynesia Archipelagos_GS051_Coral Reef Atoll",34.2,1,NA,27.3,10,5.67
+"Indian Ocean_GS108a_Lagoon Reef",32.4,1.8,0.108,25.8,7,5.78
+"Indian Ocean_GS110a_Open Ocean",32.7,1.5,0.128,27,1220,4.71
+"Indian Ocean_GS112a_Open Ocean",32.5,1.8,0.134,26.6,4573,4.43
+"Indian Ocean_GS113_Open Ocean",33.3,1.8,0.24,27.5,4573,4.94
+"Indian Ocean_GS114_Open Ocean",33.1,1.5,0.14,28.2,3649,4.58
+"Indian Ocean_GS117a_Coastal sample",35.5,1.8,0.206,26.4,14,5.67
+"Indian Ocean_GS119_Open Ocean",35.4,2,0.078,23.8,2995,4.91
+"Indian Ocean_GS120_Open Ocean",35.6,2.8,0.117,22.5,5081,4.55
+"Indian Ocean_GS121_Open Ocean",35.4,1.5,0.14,23.1,4309,4.25
+"Indian Ocean_GS122a_Open Ocean",35.8,1.9,0.151,20.2,4921,4.05
+"Indian Ocean_GS123_Open Ocean",35.8,2.2,0.228,20.4,1860,4.94
+"Indian Ocean_GS148_Fringing Reef",NA,0.3,NA,NA,1,5.67
+"Indian Ocean_GS149_Harbor",NA,1.5,NA,NA,5,5.7

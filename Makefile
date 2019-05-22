@@ -21,7 +21,7 @@ Sources += Makefile README.md
 # README.html: README.md
 Ignore += README.html
 
-Sources += $(wildcard *.R)
+Sources += $(wildcard *.R *.csv)
 
 ######################################################################
 
