@@ -12,11 +12,10 @@ For more information, contact [Xingpeng Jiang](mailto:xingpengjiang@gmail.com), 
 ## Code
 
 For more information, contact
+[Xingpeng Jiang](mailto:xingpengjiang@gmail.com) or
+[Jonathan Dushoff](mailto:dushoff@mcmaster.ca)
 
-* [Xingpeng Jiang](mailto:xingpengjiang@gmail.com) or
-* [Jonathan Dushoff](mailto:dushoff@mcmaster.ca)
-
-[NMF and data-processing routines in R](NMF.R)
+* [NMF and data-processing routines in R](NMF.R)
 
 ## Links
 
