@@ -1,18 +1,4 @@
 # GOS_NMF
-## Target
-current: target
--include target.mk
-
-## Makestuff setup
-msrepo = https://github.com/dushoff
-ms = makestuff
--include $(ms)/os.mk
-
-Ignore += $(ms)
-Makefile: $(ms)/Makefile
-$(ms)/Makefile:
-	git clone $(msrepo)/$(ms)
-	ls $@
 
 ######################################################################
 
@@ -25,9 +11,26 @@ Sources += $(wildcard *.R *.csv)
 
 ######################################################################
 
-### Makestuff rules
+### Makestuff
 
--include $(ms)/pandoc.mk
--include $(ms)/git.mk
--include $(ms)/visual.mk
+Sources += Makefile
 
+## Sources += content.mk
+## include content.mk
+
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+
+## Want to chain and make makestuff if it doesn't exist
+## Compress this ¶ to choose default makestuff route
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	git clone $(msrepo)/makestuff
+	ls makestuff/Makefile
+
+-include makestuff/os.mk
+
+-include makestuff/makeR.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
